@@ -3,3 +3,19 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+.contenitore1 {
+    width: 50%;
+    margin: 300px auto;
+    border: 5px solid red;
+}
+
+.box1 {
+    display: flex;
+    flex wrap: wrap;
+}
+
+.col1 {
+    padding: 0px 30px;
+    width: calc(100% / 3);
+}
